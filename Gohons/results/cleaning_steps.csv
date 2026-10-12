@@ -1,0 +1,7 @@
+Step,Rows remaining,Rows removed,% of raw retained
+Raw dataset,541909,0,100.0
+Drop missing CustomerID,406829,135080,75.07
+Drop cancelled invoices,397924,8905,73.43
+Keep Quantity > 0,397924,0,73.43
+Keep UnitPrice > 0,397884,40,73.42
+Drop exact duplicates,392692,5192,72.46
