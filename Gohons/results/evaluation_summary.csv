@@ -1,0 +1,9 @@
+Measure,Value
+Final K,3.0
+Mean silhouette,0.416
+Calinski-Harabasz,4393.9
+Inertia (WCSS),4299.0
+Between-cluster SS / total SS (%),67.0
+Customers with negative silhouette (%),0.5
+Min ARI across 10 seeds (n_init=20),0.998
+PCA variance shown in 2-D plot (%),93.6

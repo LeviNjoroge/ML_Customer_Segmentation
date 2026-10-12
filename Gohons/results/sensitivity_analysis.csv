@@ -1,0 +1,6 @@
+Variant,Customers,Silhouette (own feature space),ARI vs main model,Cluster sizes (largest first)
+A. Main model,4338,0.416,1.0,"[2035, 1321, 982]"
+B. No log transform,4338,0.594,0.429,"[3230, 1082, 26]"
+C. Log all three,4338,0.337,0.314,"[1872, 1697, 769]"
+D. Min-max scaling,4338,0.431,0.856,"[2065, 1267, 1006]"
+E. Top 1% Monetary removed,4294,0.415,0.936,"[1981, 1349, 964]"

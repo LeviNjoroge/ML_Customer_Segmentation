@@ -1,0 +1,5 @@
+Cluster,Customers,% of customers,Recency mean,Recency median,Recency min,Recency max,Frequency mean,Frequency median,Frequency min,Frequency max,Monetary mean,Monetary median,Monetary min,Monetary max,Total Monetary (£),% of total Monetary,% single-invoice customers
+1,1321,30.45,30.21,17.0,1,372,9.84,7.0,1,209,5489.07,2567.06,621.68,280206.02,7251056.93,81.59,0.08
+2,2035,46.91,54.58,45.0,1,191,2.05,2.0,1,7,611.93,508.58,6.2,6207.67,1245286.69,14.01,38.23
+3,982,22.64,255.03,252.5,107,374,1.39,1.0,1,7,398.03,290.78,3.75,4959.1,390865.27,4.4,72.71
+All customers,4338,100.0,92.54,51.0,1,374,4.27,2.0,1,209,2048.69,668.57,3.75,280206.02,8887208.89,100.0,34.42
